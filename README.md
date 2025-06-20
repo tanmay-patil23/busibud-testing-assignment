@@ -6,7 +6,7 @@ This repository contains a comprehensive QA test report for the Busibud web appl
 
 ## 📁 Project Structure
 
-- `Busibud_Test_Cases.xlsx`  
+- `Tanmay_Test_Cases.xlsx`  
   ➤ Contains detailed test cases for **three web pages**:
   1. Login Page (test1)
   2. Form Page (test2)
@@ -63,7 +63,7 @@ This repository contains a comprehensive QA test report for the Busibud web appl
 
 ## 🧾 How to View
 
-1. Download or open the `Busibud_Test_Cases.xlsx` file.
+1. Download or open the `Tanmay_Test_Cases.xlsx` file.
 2. Each sheet is named after the page tested.
 3. Scroll through the table to view all test cases per type.
 
